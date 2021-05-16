@@ -1,0 +1,2 @@
+rootProject.name = "Android Native Basic"
+include ':app'
